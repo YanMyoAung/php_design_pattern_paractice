@@ -29,4 +29,5 @@ class Programmer{
 $mgmg = new Programmer('mgmg', 30);
 $mgmg->eat()->code()->sleep();
 echo $mgmg->hour;
+echo $mgmg;
 ?>
